@@ -1,12 +1,3 @@
-# Practica1
+# Welcome a MoviesMove!
 
-Hello, este cambio lo hizo teuddy.
-
-buenas noches mundo
-Como estamos
-
-HOLA RAFA ESTO ES DE la  COMPUTADORA de rafael
-
-
-hola buenas tardes 
-
+Proyecto que alberga todo tipo de películas. construido con Node y React; Espero disfruten.
